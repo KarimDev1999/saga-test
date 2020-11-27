@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saga-test/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/saga-test/static/js/main.b83f9823.chunk.js",
+    "main.js.map": "/saga-test/static/js/main.b83f9823.chunk.js.map",
+    "runtime-main.js": "/saga-test/static/js/runtime-main.cc5accdb.js",
+    "runtime-main.js.map": "/saga-test/static/js/runtime-main.cc5accdb.js.map",
+    "static/js/2.20b89a0e.chunk.js": "/saga-test/static/js/2.20b89a0e.chunk.js",
+    "static/js/2.20b89a0e.chunk.js.map": "/saga-test/static/js/2.20b89a0e.chunk.js.map",
+    "index.html": "/saga-test/index.html",
+    "precache-manifest.a1daab9ea95989598069ce62920b0e2d.js": "/saga-test/precache-manifest.a1daab9ea95989598069ce62920b0e2d.js",
+    "service-worker.js": "/saga-test/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/saga-test/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.20b89a0e.chunk.js.LICENSE.txt": "/saga-test/static/js/2.20b89a0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc5accdb.js",
+    "static/js/2.20b89a0e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b83f9823.chunk.js"
+  ]
+}
